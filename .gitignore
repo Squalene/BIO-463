@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+*.bed
+*.bedgraph
+*.wig
+.ipynb_checkpoints/
